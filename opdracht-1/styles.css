@@ -3,3 +3,33 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.two{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+.edhub{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-grow: 2222;
+}
+.opdracht2-3{
+    display: flex;
+
+
+
+}
+
+
+.edhub1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-grow: 2222;
+}
